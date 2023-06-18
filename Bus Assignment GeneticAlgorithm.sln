@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bus Assignment GeneticAlgorithm", "Bus Assignment GeneticAlgorithm\Bus Assignment GeneticAlgorithm.pyproj", "{082CAF38-C374-4ED3-9E4D-8E416B2FEFE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{082CAF38-C374-4ED3-9E4D-8E416B2FEFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082CAF38-C374-4ED3-9E4D-8E416B2FEFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3B70764-0C58-4EBF-9EE8-48CFC919A699}
+	EndGlobalSection
+EndGlobal
